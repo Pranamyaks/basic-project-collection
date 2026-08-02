@@ -1,0 +1,5 @@
+Apple 2 50
+Banana 3 20
+Milk 1 23
+Curd 2 22
+Ghee 1 250
